@@ -37,24 +37,12 @@ Excel: For initial data cleaning and preparation.
 
 Power BI: For data visualization and exploratory data analysis (EDA).
 
-# Tools Used
-
-MySQL: For storing and querying sales data.
-
-Excel: For initial data cleaning and preparation.
-
-Power BI: For data visualization and exploratory data analysis (EDA).
-
 # Data Sources
 
 . MySQL Database: Contains sales data with columns including date, product, location, sales amount, quantity sold, order 
     ID,etc.
     
 . Excel Files: Used for additional data preparation and cleaning tasks.
-
-# Data Cleaning and Analysis
-
-Data cleaning was performed in Excel and transformed into power bi power query to ensure data integrity and consistency.
 
 # Data Cleaning and Analysis
 Data cleaning was performed in Excel and transformed into power bi power query to ensure data integrity and consistency.
